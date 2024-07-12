@@ -24,10 +24,10 @@ This is the procedures:
 
 
 
-
-**Note 1**: At the first of each block, some explanation brings to show the role of this.
-**Note 2**: all of the model and data must be defined in the form of function.
-**Note 3**: the parameters of notebook_name and title must be varied to the name of project.
+** The GPU and Python 3 are needed**
+**Note 1**: At the first of each block, some explanation is brought to show the role of this.
+**Note 2**: all of the model and data must be defined in the form of a function.
+**Note 3**: the parameters of notebook_name and title must be varied to the name of the project.
 
 
 
