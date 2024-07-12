@@ -11,14 +11,17 @@ The Hyperas toolbox was utilized for the implementation of a Bayesian hyperparam
 It is crucial to note that HYPERAS identifies the optimal hyperparameters, enhancing the model's speed in response time to its maximum potential.
 
 This is the procedures:
-1. Installing HYPERAS (Block 12)
-2. Require imports (Block 13)
-3. Definition model(1) for HYPERAS (Block 14)
-4. Saving ipython (Block 15)
-5. Running HYPERAS model(1) (Block 16)
-6.  Other model(2) of HYPERAS (Block 17)
-7. Saving ipython (Block 18)
-8. Runnig HYPERAS model(2) (Block 19)
+1. Download data base (Block 1)
+2. Extract data to the directory (Block 2)
+3. All of requirment imports (Block 3)
+4. Load Validation and train data of Cat and Dog (Block 4)
+5. Define the best and desired model (Block 5)
+6. Installing HYPERAS (Block 6)
+7. Require imports (Block 7)
+8. Definition model for HYPERAS (Block 8)
+9. Saving ipython (Block 9)
+10. Running HYPERAS model (Block 10)
+
 
 
 
