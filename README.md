@@ -1,25 +1,25 @@
 # 14030423
 
-**Automatic Hyperparameter tunning based on Hyperas**
+**Automatic Hyperparameter tunning for Deep Neural Networks based on Hyperas**
 
-Binary cat and dog picture classification projectct using Hyperas toolbox to tune hyperparameters automatically.
+Binary cat and dog picture classification projects using Hyperas toolbox to tune hyperparameters automatically.
 
-In this method, I used Hyperas[2] toolbox that is very helpful to specify the best amount of hyperparameters. I used this in my research[2] and could simply find the best hyperparameters.
+In this method, I used the Hyperas[2] toolbox which is very helpful in specifying the best amount of hyperparameters. I used this in my research[2] and could simply find the best hyperparameters.
 
-The Hyperas toolbox was utilized for the implementation of a Bayesian hyperparameter optimization algorithm. That Hyperas is a very simple convenience wrapper around the Hyper­opt toolbox for fast tuning the models[3]. Among some pre-defined values for each hyperparameter, one is suggested by Hyperas as the best value for that hyperparameter.
+The Hyperas toolbox was utilized for the implementation of a Bayesian hyperparameter optimization algorithm. Hyperas is a very simple convenience wrapper around the Hyper­opt toolbox for fast-tuning the models[3]. Among some pre-defined values for each hyperparameter, one is suggested by Hyperas as the best value for that hyperparameter.
 
 It is crucial to note that HYPERAS identifies the optimal hyperparameters, enhancing the model's speed in response time to its maximum potential.
 
-This is the procedures:
-1. Download data base (Block 1)
+This is the procedure:
+1. Download database (Block 1)
 2. Extract data to the directory (Block 2)
-3. All of requirment imports (Block 3)
+3. All of requirement imports (Block 3)
 4. Load Validation and train data of Cat and Dog (Block 4)
 5. Define the best and desired model (Block 5)
 6. Installing HYPERAS (Block 6)
 7. Require imports (Block 7)
 8. Definition model for HYPERAS (Block 8)
-9. Saving ipython (Block 9)
+9. Saving python code (Block 9)
 10. Running HYPERAS model (Block 10)
 
 
